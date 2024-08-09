@@ -2,7 +2,6 @@
 
 **Gabriel manfio**
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na liguagem JavaScript
   
 **Meus Contatos**
 
